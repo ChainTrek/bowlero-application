@@ -1,0 +1,9 @@
+@import './variables.scss';
+
+body {
+  font-family: $font-primary;
+  background-color: $cream;
+  color: $charcoal;
+  padding: $padding-base;
+  margin: 0;
+}
